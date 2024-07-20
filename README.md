@@ -98,7 +98,7 @@ The e-commerce industry thrives on the promise of timely deliveries. However, th
     ```bash
     git push origin feature_branch
     ```
-5. Create a new Pull Request.
+5. Create a new Pull Request
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
