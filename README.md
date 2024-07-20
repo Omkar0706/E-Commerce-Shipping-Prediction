@@ -53,7 +53,7 @@ The e-commerce industry thrives on the promise of timely deliveries. However, th
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook
-- Libraries: `scikit-learn`, `pandas`, `numpy`, `seaborn`, `pickle`, `matplotlib`, `Flask`
+- Libraries: `scikit-learn`, `pandas`, `numpy`, `seaborn`, `pickle`, `matplotlib` and `Flask`
 
 ### Installation
 1. Clone the repository:
@@ -98,7 +98,7 @@ The e-commerce industry thrives on the promise of timely deliveries. However, th
     ```bash
     git push origin feature_branch
     ```
-5. Create a new Pull Request
+5. Create a new Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
